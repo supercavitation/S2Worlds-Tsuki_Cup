@@ -19,7 +19,7 @@
     "fastMove": "POWDER_SNOW",
     "chargedMoves": ["ICICLE_SPEAR", "SUPER_POWER"]
 }, {
-    "speciesId": "DACHSBUN",
+    "speciesId": "dachsbun",
     "fastMove": "FIRE_FANG",
     "chargedMoves": ["PSYCHIC_FANGS","PLAY_ROUGH"]
 }, {
