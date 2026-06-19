@@ -198,6 +198,11 @@
     "weight": 1
   },
   {
+    "speciesId": "garganacl",
+    "chargedMoves": ["ROCK_BLAST","ROCK_TOMB"],
+    "weight": 1
+  },
+  {
     "speciesId": "gengar",
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["SHADOW_PUNCH","SLUDGE_BOMB"],
@@ -217,7 +222,7 @@
   },
   {
     "speciesId": "glalie",
-    "fastMove": "POWDER_SNOW",
+    "fastMove": "ROLLOUT",
     "chargedMoves": ["AVALANCHE","SHADOW_BALL"],
     "weight": 1
   },
