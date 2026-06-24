@@ -53,7 +53,7 @@
 }, {
     "speciesId": "garganacl",
     "fastMove": "MUD_SHOT",
-    "chargedMoves": ["ROCK_TOMB","ROCK_SLIDE"]
+    "chargedMoves": ["ROCK_TOMB","ROCK_BLAST"]
 }, {
     "speciesId": "gigalith",
     "fastMove": "LOCK_ON",
